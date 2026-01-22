@@ -1,0 +1,20 @@
+body {
+    background-color: #e7eaf6; /* Sets the background color for the entire page */
+    font-family: Arial, sans-serif; /* Sets the default font */
+    color: #333; /* Sets the default text color */
+}
+
+h1 {
+    color: #113f67; /* Makes the main heading blue */
+    text-align: center; /* Centers the heading text */
+}
+
+h1 {
+    color: #113f67; /* Makes the main heading blue */
+    text-align: center; /* Centers the heading text */
+}
+
+p {
+    font-size: 16px; /* Sets the font size for paragraphs */
+    line-height: 1.5; /* Adds space between lines of text */
+}
